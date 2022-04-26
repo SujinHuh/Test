@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Test">
         <activity
+            android:name=".BtsActivity07"
+            android:exported="false" />
+        <activity
+            android:name=".BtsActivity06"
+            android:exported="false" />
+        <activity
+            android:name=".BtsActivity04"
+            android:exported="false" />
+        <activity
+            android:name=".BtsActivity05"
+            android:exported="false" />
+        <activity
+            android:name=".BtsActivity03"
+            android:exported="false" />
+        <activity
             android:name=".BtsActivity02"
             android:exported="false" />
         <activity
